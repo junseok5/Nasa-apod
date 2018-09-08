@@ -9,7 +9,5 @@
 - CSS Module + Sass
 
 Demo: http://shaggy-weight.surge.sh/
-
-Ref: https://velopert.com/3503
-
 - Demo is not supported for sass module.
+Ref: https://velopert.com/3503
