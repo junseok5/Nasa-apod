@@ -1,6 +1,6 @@
-#Nasa-apod project
+# Nasa-apod project
 
-###Project stack
+### Project stack
 - react
 - axios
 - open-color
